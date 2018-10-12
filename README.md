@@ -6,3 +6,9 @@ but add a level of polish which brings the experience to life._
 :+1:
 
 [![juice it or lose it](https://img.youtube.com/vi/Fy0aCDmgnxg/0.jpg)](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+
+## Animation
+## Graphics
+## Sounds
+## Misc
+
