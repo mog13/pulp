@@ -1,4 +1,5 @@
 # PULP
+![Pulp Logo](./pulp.png)
 >_Pulp is a list of the best libraries to add some flair to your projects.
 Its the bounce and ease of animation, the haptic feedback on touch and the ripple on hover.
 These features are don't provide core functionality to a project 
