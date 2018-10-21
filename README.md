@@ -9,7 +9,15 @@ but add a level of polish which brings the experience to life._
 [![juice it or lose it](https://img.youtube.com/vi/Fy0aCDmgnxg/0.jpg)](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 
 ## Animation
+
+**[tween.js](https://github.com/tweenjs/tween.js/)**
+JavaScript tweening engine for easy animations.
+
 ## Graphics
 ## Sounds
+
+**[Tone.js](https://github.com/Tonejs/Tone.js)**
+A Web Audio framework for making interactive music in the browser.
+
 ## Misc
 
