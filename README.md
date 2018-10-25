@@ -18,6 +18,9 @@ Anime (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library. It
 works with any CSS Properties, individual CSS transforms, SVG or any DOM 
 attributes, and JavaScript Objects.
 
+**[AOS](https://github.com/michalsnik/aos)**
+Animate on scroll library
+
 ## Graphics
 
 ## Colour
