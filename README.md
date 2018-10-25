@@ -19,10 +19,11 @@ works with any CSS Properties, individual CSS transforms, SVG or any DOM
 attributes, and JavaScript Objects.
 
 **[AOS](https://github.com/michalsnik/aos)**
-Animate on scroll library
+Animate on scroll library.
 
 **[choreographer-js](https://github.com/christinecha/choreographer-js)**
 A simple library to take care of complex CSS animations.
+
 
 ## 🎨 Graphics 🎨
 
@@ -33,8 +34,13 @@ Create fluid and interactive gradients animations with this small (< 17
 kB) js library. 
 
 **[PleaseJS](https://github.com/Fooidge/PleaseJS)**
-JavaScript Library for creating random pleasing colors and color schemes
+JavaScript library for creating random pleasing colors and color schemes.
 
+
+
+## Sounds
+**[Tone.js](https://github.com/Tonejs/Tone.js)**
+A Web Audio framework for making interactive music in the browser.
 
 ## 🎵 Sounds 🎵
 
@@ -42,8 +48,9 @@ JavaScript Library for creating random pleasing colors and color schemes
 A Web Audio framework for making interactive music in the browser.
 
 ## ❓ Misc ❓
+
 **[Splain.js](https://github.com/mog13/Splain)**
-A small parser to creat dynamic and interesting language/sentances
+A small parser to creat dynamic and interesting language/sentances.
 
 **[Multiple.js](https://github.com/NeXTs/Multiple.js)**
-Sharing background across multiple elements using CSS
+Sharing background across multiple elements using CSS.
