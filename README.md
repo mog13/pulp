@@ -44,3 +44,6 @@ A Web Audio framework for making interactive music in the browser.
 ## Misc
 **[Splain.js](https://github.com/mog13/Splain)**
 A small parser to creat dynamic and interesting language/sentances
+
+**[Multiple.js](https://github.com/NeXTs/Multiple.js)**
+Sharing background across multiple elements using CSS
