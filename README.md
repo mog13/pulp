@@ -8,7 +8,7 @@ but add a level of polish which brings the experience to life._
 
 [![juice it or lose it](https://img.youtube.com/vi/Fy0aCDmgnxg/0.jpg)](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 
-## Animation
+## 🎞️ Animation 🎞️
 
 **[tween.js](https://github.com/tweenjs/tween.js/)**
 JavaScript tweening engine for easy animations.
@@ -24,9 +24,9 @@ Animate on scroll library
 **[choreographer-js](https://github.com/christinecha/choreographer-js)**
 A simple library to take care of complex CSS animations.
 
-## Graphics
+## 🎨 Graphics 🎨
 
-## Colour
+## 🌈 Colour 🌈
 
 **[granim.js](https://github.com/sarcadass/granim.js)**
 Create fluid and interactive gradients animations with this small (< 17 
@@ -36,12 +36,12 @@ kB) js library.
 JavaScript Library for creating random pleasing colors and color schemes
 
 
-## Sounds
+## 🎵 Sounds 🎵
 
 **[Tone.js](https://github.com/Tonejs/Tone.js)**
 A Web Audio framework for making interactive music in the browser.
 
-## Misc
+## ❓ Misc ❓
 **[Splain.js](https://github.com/mog13/Splain)**
 A small parser to creat dynamic and interesting language/sentances
 
