@@ -21,6 +21,9 @@ attributes, and JavaScript Objects.
 **[AOS](https://github.com/michalsnik/aos)**
 Animate on scroll library
 
+**[choreographer-js](https://github.com/christinecha/choreographer-js)**
+A simple library to take care of complex CSS animations.
+
 ## Graphics
 
 ## Colour
