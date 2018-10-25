@@ -27,6 +27,9 @@ A simple library to take care of complex CSS animations.
 
 ## 🎨 Graphics 🎨
 
+**[ripple.js](https://github.com/jakiestfu/Ripple.js)**
+Adds Material style ripple to buttons
+
 ## 🌈 Colour 🌈
 
 **[granim.js](https://github.com/sarcadass/granim.js)**
