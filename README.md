@@ -14,6 +14,9 @@ but add a level of polish which brings the experience to life._
 JavaScript tweening engine for easy animations.
 
 ## Graphics
+
+## Colour
+
 ## Sounds
 
 **[Tone.js](https://github.com/Tonejs/Tone.js)**
