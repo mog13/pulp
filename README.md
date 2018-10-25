@@ -1,4 +1,3 @@
-# PULP
 ![Pulp Logo](./pulp.png)
 >_Pulp is a list of the best libraries to add some flair to your projects.
 Its the bounce and ease of animation, the haptic feedback on touch and the ripple on hover.
@@ -27,6 +26,9 @@ A simple library to take care of complex CSS animations.
 
 ## 🎨 Graphics 🎨
 
+**[p5.js](https://github.com/processing/p5.js)**
+A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. You can see more at [here](https://p5js.org)
+
 ## 🌈 Colour 🌈
 
 **[granim.js](https://github.com/sarcadass/granim.js)**
@@ -35,12 +37,6 @@ kB) js library.
 
 **[PleaseJS](https://github.com/Fooidge/PleaseJS)**
 JavaScript library for creating random pleasing colors and color schemes.
-
-
-
-## Sounds
-**[Tone.js](https://github.com/Tonejs/Tone.js)**
-A Web Audio framework for making interactive music in the browser.
 
 ## 🎵 Sounds 🎵
 
