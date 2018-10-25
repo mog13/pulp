@@ -13,6 +13,11 @@ but add a level of polish which brings the experience to life._
 **[tween.js](https://github.com/tweenjs/tween.js/)**
 JavaScript tweening engine for easy animations.
 
+**[anime.js](https://github.com/juliangarnier/anime)**
+Anime (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library. It 
+works with any CSS Properties, individual CSS transforms, SVG or any DOM 
+attributes, and JavaScript Objects.
+
 ## Graphics
 
 ## Colour
