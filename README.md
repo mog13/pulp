@@ -23,8 +23,10 @@ Animate on scroll library.
 **[choreographer-js](https://github.com/christinecha/choreographer-js)**
 A simple library to take care of complex CSS animations.
 
-
 ## 🎨 Graphics 🎨
+
+**[ripple.js](https://github.com/jakiestfu/Ripple.js)**
+Adds Material style ripple to buttons
 
 **[p5.js](https://github.com/processing/p5.js)**
 A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. You can see more at [here](https://p5js.org)
