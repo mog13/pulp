@@ -32,6 +32,10 @@ A simple library to take care of complex CSS animations.
 Create fluid and interactive gradients animations with this small (< 17 
 kB) js library. 
 
+**[PleaseJS](https://github.com/Fooidge/PleaseJS)**
+JavaScript Library for creating random pleasing colors and color schemes
+
+
 ## Sounds
 
 **[Tone.js](https://github.com/Tonejs/Tone.js)**
