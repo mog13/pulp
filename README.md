@@ -28,6 +28,10 @@ A simple library to take care of complex CSS animations.
 
 ## Colour
 
+**[granim.js](https://github.com/sarcadass/granim.js)**
+Create fluid and interactive gradients animations with this small (< 17 
+kB) js library. 
+
 ## Sounds
 
 **[Tone.js](https://github.com/Tonejs/Tone.js)**
