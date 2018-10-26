@@ -45,6 +45,8 @@ JavaScript library for creating random pleasing colors and color schemes.
 **[Tone.js](https://github.com/Tonejs/Tone.js)**
 A Web Audio framework for making interactive music in the browser.
 
+**[Wavesurfer.js](https://github.com/katspaugh/wavesurfer.js)** Navigable waveform built on Web Audio and Canvas
+
 ## ❓ Misc ❓
 
 **[Splain.js](https://github.com/mog13/Splain)**
