@@ -1,4 +1,4 @@
-#CONTRIBUTING.md
+# CONTRIBUTING.md
 
 Contributions are welcome and encouraged, but please follow these guidelines.
 
