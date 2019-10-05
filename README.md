@@ -49,6 +49,16 @@ A Web Audio framework for making interactive music in the browser.
 
 **[Chime.js](https://github.com/mog13/chime)** Quick and easy bleeps and bloops.
 
+
+## 📊 Visualization 📊
+
+**[D3.js](https://github.com/d3/d3)** Bring data to life with SVG, Canvas and HTML.
+
+**[Chart.js](https://github.com/chartjs)** Simple, clean and engaging charts for designers and developers.
+
+**[Three.js](https://github.com/mrdoob/three.js/)** JavaScript 3D library.  
+
+
 ## ❓ Misc ❓
 
 **[Splain.js](https://github.com/mog13/Splain)**
