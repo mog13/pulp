@@ -49,6 +49,10 @@ A Web Audio framework for making interactive music in the browser.
 
 **[Chime.js](https://github.com/mog13/chime)** Quick and easy bleeps and bloops.
 
+**[miniMusic](https://github.com/xem/miniMusic)** Draw a melody!
+
+**[TinyMusic](https://github.com/kevincennis/TinyMusic)** A simple, lightweight music synth/sequencer in JavaScript using the Web Audio API.
+
 
 ## 📊 Visualization 📊
 
@@ -66,3 +70,5 @@ A small parser to creat dynamic and interesting language/sentances.
 
 **[Multiple.js](https://github.com/NeXTs/Multiple.js)**
 Sharing background across multiple elements using CSS.
+
+**[tinyfont.js](https://github.com/darkwebdev/tinyfont.js)** Tiniest possible pixel font for your JS games.
