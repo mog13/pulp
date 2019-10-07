@@ -60,7 +60,9 @@ A Web Audio framework for making interactive music in the browser.
 
 **[Chart.js](https://github.com/chartjs)** Simple, clean and engaging charts for designers and developers.
 
-**[Three.js](https://github.com/mrdoob/three.js/)** JavaScript 3D library.  
+**[Three.js](https://github.com/mrdoob/three.js/)** JavaScript 3D library.
+
+**[blessed](https://github.com/chjj/blessed)** High level cli graphical (ncurses) library.
 
 
 ## ❓ Misc ❓
