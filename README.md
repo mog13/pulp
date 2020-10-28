@@ -65,6 +65,9 @@ A Web Audio framework for making interactive music in the browser.
 **[blessed](https://github.com/chjj/blessed)** High level cli graphical (ncurses) library.
 
 **[Premonish](https://mathisonian.github.io/premonish/)** Predict which elements the user will interact next with.
+
+**[Siriwave](http://kopiro.github.io/siriwave/)** Siri like wave-forms 
+
 ## ❓ Misc ❓
 
 **[Splain.js](https://github.com/mog13/Splain)**
