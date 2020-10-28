@@ -74,3 +74,5 @@ A small parser to creat dynamic and interesting language/sentances.
 Sharing background across multiple elements using CSS.
 
 **[tinyfont.js](https://github.com/darkwebdev/tinyfont.js)** Tiniest possible pixel font for your JS games.
+
+**[Cleave.js](https://nosir.github.io/cleave.js/)** Format inputs and forms (for example credit card formatting)
