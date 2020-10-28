@@ -9,10 +9,10 @@ but add a level of polish which brings the experience to life._
 
 ## 🎞️ Animation 🎞️
 
-**[tween.js](https://github.com/tweenjs/tween.js/)**
+**[Tween.js](https://github.com/tweenjs/tween.js/)**
 JavaScript tweening engine for easy animations.
 
-**[anime.js](https://github.com/juliangarnier/anime)**
+**[Anime.js](https://github.com/juliangarnier/anime)**
 Anime (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library. It 
 works with any CSS Properties, individual CSS transforms, SVG or any DOM 
 attributes, and JavaScript Objects.
@@ -20,20 +20,20 @@ attributes, and JavaScript Objects.
 **[AOS](https://github.com/michalsnik/aos)**
 Animate on scroll library.
 
-**[choreographer-js](https://github.com/christinecha/choreographer-js)**
+**[Choreographer-js](https://github.com/christinecha/choreographer-js)**
 A simple library to take care of complex CSS animations.
 
 ## 🎨 Graphics 🎨
 
-**[ripple.js](https://github.com/jakiestfu/Ripple.js)**
-Adds Material style ripple to buttons
+**[Ripple.js](https://github.com/jakiestfu/Ripple.js)**
+Adds Material style ripple to buttons.
 
-**[p5.js](https://github.com/processing/p5.js)**
-A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. You can see more at [here](https://p5js.org)
+**[P5.js](https://github.com/processing/p5.js)**
+A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. You can see more at [here](https://p5js.org).
 
 ## 🌈 Colour 🌈
 
-**[granim.js](https://github.com/sarcadass/granim.js)**
+**[Granim.js](https://github.com/sarcadass/granim.js)**
 Create fluid and interactive gradients animations with this small (< 17 
 kB) js library. 
 
@@ -49,7 +49,7 @@ A Web Audio framework for making interactive music in the browser.
 
 **[Chime.js](https://github.com/mog13/chime)** Quick and easy bleeps and bloops.
 
-**[miniMusic](https://github.com/xem/miniMusic)** Draw a melody!
+**[MiniMusic](https://github.com/xem/miniMusic)** Draw a melody!
 
 **[TinyMusic](https://github.com/kevincennis/TinyMusic)** A simple, lightweight music synth/sequencer in JavaScript using the Web Audio API.
 
@@ -62,11 +62,11 @@ A Web Audio framework for making interactive music in the browser.
 
 **[Three.js](https://github.com/mrdoob/three.js/)** JavaScript 3D library.
 
-**[blessed](https://github.com/chjj/blessed)** High level cli graphical (ncurses) library.
+**[Blessed](https://github.com/chjj/blessed)** High level cli graphical (ncurses) library.
 
 **[Premonish](https://mathisonian.github.io/premonish/)** Predict which elements the user will interact next with.
 
-**[Siriwave](http://kopiro.github.io/siriwave/)** Siri like wave-forms 
+**[Siriwave](http://kopiro.github.io/siriwave/)** Siri like wave-forms.
 
 ## ❓ Misc ❓
 
@@ -76,6 +76,6 @@ A small parser to creat dynamic and interesting language/sentances.
 **[Multiple.js](https://github.com/NeXTs/Multiple.js)**
 Sharing background across multiple elements using CSS.
 
-**[tinyfont.js](https://github.com/darkwebdev/tinyfont.js)** Tiniest possible pixel font for your JS games.
+**[Tinyfont.js](https://github.com/darkwebdev/tinyfont.js)** Tiniest possible pixel font for your JS games.
 
-**[Cleave.js](https://nosir.github.io/cleave.js/)** Format inputs and forms (for example credit card formatting)
+**[Cleave.js](https://nosir.github.io/cleave.js/)** Format inputs and forms (for example credit card formatting).
