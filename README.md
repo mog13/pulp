@@ -68,6 +68,13 @@ A Web Audio framework for making interactive music in the browser.
 
 **[Siriwave](http://kopiro.github.io/siriwave/)** Siri like wave-forms.
 
+
+## 🤖 Machine Learning 🤖
+
+**[ML5.js](https://github.com/ml5js/ml5-library)**
+A small parser to creat dynamic and interesting language/sentances.
+
+
 ## ❓ Misc ❓
 
 **[Splain.js](https://github.com/mog13/Splain)**
