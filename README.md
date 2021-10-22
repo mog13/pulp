@@ -40,6 +40,9 @@ kB) js library.
 **[PleaseJS](https://github.com/Fooidge/PleaseJS)**
 JavaScript library for creating random pleasing colors and color schemes.
 
+**[Gradient-string](https://github.com/bokub/gradient-string)**
+Beautiful color gradients in terminal output
+
 ## 🎵 Sounds 🎵
 
 **[Tone.js](https://github.com/Tonejs/Tone.js)**
