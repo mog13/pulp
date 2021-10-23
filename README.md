@@ -93,3 +93,5 @@ Sharing background across multiple elements using CSS.
 **[Tinyfont.js](https://github.com/darkwebdev/tinyfont.js)** Tiniest possible pixel font for your JS games.
 
 **[Cleave.js](https://nosir.github.io/cleave.js/)** Format inputs and forms (for example credit card formatting).
+
+**[SweetAlert2.js](https://sweetalert2.github.io/)** Beautiful replacement for javascript's popup boxes.
