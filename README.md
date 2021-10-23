@@ -31,6 +31,10 @@ Adds Material style ripple to buttons.
 **[P5.js](https://github.com/processing/p5.js)**
 A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. You can see more at [here](https://p5js.org).
 
+**[Fabric.js](https://github.com/fabricjs/fabric.js)**
+Fabric provides interactive object model on top of canvas element.
+Fabric also has SVG-to-canvas (and canvas-to-SVG) parser.
+
 ## 🌈 Colour 🌈
 
 **[Granim.js](https://github.com/sarcadass/granim.js)**
