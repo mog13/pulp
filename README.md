@@ -31,6 +31,10 @@ Adds Material style ripple to buttons.
 **[P5.js](https://github.com/processing/p5.js)**
 A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing. You can see more at [here](https://p5js.org).
 
+**[Fabric.js](https://github.com/fabricjs/fabric.js)**
+Fabric provides interactive object model on top of canvas element.
+Fabric also has SVG-to-canvas (and canvas-to-SVG) parser.
+
 ## 🌈 Colour 🌈
 
 **[Granim.js](https://github.com/sarcadass/granim.js)**
@@ -39,6 +43,9 @@ kB) js library.
 
 **[PleaseJS](https://github.com/Fooidge/PleaseJS)**
 JavaScript library for creating random pleasing colors and color schemes.
+
+**[Gradient-string](https://github.com/bokub/gradient-string)**
+Beautiful color gradients in terminal output
 
 ## 🎵 Sounds 🎵
 
@@ -78,6 +85,7 @@ A small parser to creat dynamic and interesting language/sentances.
 ️ 
 **[devmoji](https://github.com/folke/devmoji)**
 Devmoji is a command line tool that adds color 🌈 to conventional commits, using emojis inspired by Gitmoji 😜
+
 ## ❓ Misc ❓
 
 **[Splain.js](https://github.com/mog13/Splain)**
@@ -89,3 +97,6 @@ Sharing background across multiple elements using CSS.
 **[Tinyfont.js](https://github.com/darkwebdev/tinyfont.js)** Tiniest possible pixel font for your JS games.
 
 **[Cleave.js](https://nosir.github.io/cleave.js/)** Format inputs and forms (for example credit card formatting).
+
+**[SweetAlert2.js](https://sweetalert2.github.io/)** Beautiful replacement for javascript's popup boxes.
+
