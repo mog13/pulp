@@ -60,6 +60,10 @@ A Web Audio framework for making interactive music in the browser.
 
 **[TinyMusic](https://github.com/kevincennis/TinyMusic)** A simple, lightweight music synth/sequencer in JavaScript using the Web Audio API.
 
+## ⚡ Interaction ⚡
+
+**[Hammer.js](https://github.com/hammerjs/hammer.js)**
+A JavaScript library for detecting touch gestures.
 
 ## 📊 Visualization 📊
 
