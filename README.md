@@ -74,7 +74,10 @@ A Web Audio framework for making interactive music in the browser.
 **[ML5.js](https://github.com/ml5js/ml5-library)**
 A small parser to creat dynamic and interesting language/sentances.
 
-
+## 🛠️ ️Build 🛠️
+️ 
+**[devmoji](https://github.com/folke/devmoji)**
+Devmoji is a command line tool that adds color 🌈 to conventional commits, using emojis inspired by Gitmoji 😜
 ## ❓ Misc ❓
 
 **[Splain.js](https://github.com/mog13/Splain)**
